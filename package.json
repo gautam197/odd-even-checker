@@ -1,0 +1,14 @@
+{
+  "name": "odd-even-checker",
+  "version": "1.0.5",
+  "description": "it helps you to return boolean for checking odd or even number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odd even checker"
+  ],
+  "author": "prof.phuyal",
+  "license": "ISC"
+}

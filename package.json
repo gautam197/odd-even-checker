@@ -1,6 +1,6 @@
 {
   "name": "odd-even-checker",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "it helps you to return boolean for checking odd or even number",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "odd even checker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gautam197/odd-even-checker.git"
+  },
   "author": "prof.phuyal",
   "license": "ISC"
 }

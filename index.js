@@ -13,4 +13,4 @@ function checkOdd(number){
     }
 }
 
-module.exports ={checkEven, checkOddnp}
+module.exports ={checkEven, checkOdd}
